@@ -4,7 +4,7 @@
 This repository is prepared to share the input/output files and additional documents used in the lectures.
 
 ## Linear response calculation:
-### Upperbound of the spectra
+### Upperbound of the frequency range
 
 * 誘電率スペクトル計算（線形応答計算）のスペクトル領域変更: 
 スペクトルを取る範囲を変更したい場合は、`analysis`グループの`nenergy`と`de`を調整する
