@@ -17,4 +17,5 @@ This repository is prepared to share the input/output files and additional docum
 ```
 * `nenergy` = number of the sampling point for energy(frequency) domain
 * `de` = spacing in sampling
-* maximal frequency of the spectra = nenergy * de
+* maximal frequency of the spectra = `nenergy` * `de`
+* detail is explained in the web documents (https://salmon-tddft.jp/webmanual/current/html/input_keyword_list.html#analysis)
